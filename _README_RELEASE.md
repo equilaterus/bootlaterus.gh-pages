@@ -1,11 +1,6 @@
-# Bootlaterus GitHub Pages
+# My GitHub Page
 
-[![Build Status](https://travis-ci.org/equilaterus/bootlaterus.gh-pages.svg?branch=master)](https://travis-ci.org/equilaterus/bootlaterus.gh-pages) 
-
-Easily integrate Bootstrap to your GitHub Pages.
-
-Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
-
+Built with: https://github.com/equilaterus/bootlaterus.gh-pages
 
 ## Instructions
 
@@ -14,7 +9,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 * Create a [Github Page](https://pages.github.com/).
 
-* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.0.1/bootlaterus.gh-pages-0.0.1.zip) from this repo.
+* Download Release Assets from this repo (The .zip file that contains this README).
 
 * Uncompress files on your repo.
 

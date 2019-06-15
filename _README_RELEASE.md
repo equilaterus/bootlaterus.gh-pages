@@ -9,7 +9,7 @@ Built with: https://github.com/equilaterus/bootlaterus.gh-pages
 
 * Create a [Github Page](https://pages.github.com/).
 
-* Download Release Assets from this repo.
+* Download Release Assets from this repo (The .zip file that contains this README).
 
 * Uncompress files on your repo.
 

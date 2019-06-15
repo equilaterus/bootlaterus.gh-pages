@@ -6,7 +6,11 @@ Easily integrate Bootstrap to your GitHub Pages.
 
 Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
+
 ## Instructions
+
+> This project is based on [Jekyll Minima](https://github.com/jekyll/minima), it is just some overrides to give the template a *Bootstrap* flavor.
+
 
 * Create a [Github Page](https://pages.github.com/).
 

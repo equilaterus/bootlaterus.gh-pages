@@ -4,7 +4,7 @@ Built with: https://github.com/equilaterus/bootlaterus.gh-pages
 
 ## Instructions
 
-> This project is based on [Jekyll Minima](https://github.com/jekyll/minima), it is just some overrides to give the template a *Bootstrap* flavor.
+> This project is based on [Jekyll Minima](https://github.com/jekyll/minima), extending and simplifying  the original theme to give it a *Bootstrap-like* flavor.
 
 
 * Create a [Github Page](https://pages.github.com/).

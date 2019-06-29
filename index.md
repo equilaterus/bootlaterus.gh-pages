@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+See our [Hidden page](/hidden/)

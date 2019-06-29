@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 <!-- 
-  This page how to use hide-title property
+  This page shows how to use hide-title property
   to create manually a custom title for our
   page instead of using the one that comes in
   the title property.

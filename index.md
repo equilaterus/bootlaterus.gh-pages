@@ -8,4 +8,4 @@
 layout: home
 ---
 
-See our [Hidden page]({{ site.baseurl }}{% link /hidden/ %})
+See our [Hidden page]({{ site.baseurl }}/hidden/)

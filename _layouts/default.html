@@ -11,7 +11,12 @@
       {{ content }}
     </div>
 
+    {%- if site.mini_footer_enabled != true -%}
     {%- include footer.html -%}
+    {%- else -%}
+    {%- include mini-footer.html -%}
+    {%- endif -%}
+
     {%- include foot.html -%}
   </body>
 

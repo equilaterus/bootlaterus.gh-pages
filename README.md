@@ -14,7 +14,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 * Create a [Github Page](https://pages.github.com/).
 
-* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.0/bootlaterus.gh-pages-0.1.0.zip) from this repo.
+* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.1/bootlaterus.gh-pages-0.1.1.zip) from this repo.
 
 * Uncompress files on your repo.
 

@@ -2,36 +2,32 @@
   <hr />
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
+  <h2>{{ site.title | escape }}</h2>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="row">
-      <div class="col">
-          <ul class="list-unstyled">
-            {%- if site.author -%}
-            <li class="lead">{{ site.author | escape }}</li>
-            {%- else -%}
-            <li class="lead">{{ site.title | escape }}</li>
-            {%- endif -%}
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-            {%- if site.website -%}
-            <li><a href="{{ site.website }}" target="_blank" rel="noopener">{{ site.website }}</a></li>
-            {%- endif -%}
-          </ul>
-      </div>
-
-      <div class="col">
-        {%- include social.html -%}
-      </div>
-
-      <div class="col">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+  <div class="row">
+    <div class="col">
+        <ul class="list-unstyled">
+          {%- if site.author -%}
+          <li class="lead">{{ site.author | escape }}</li>
+          {%- else -%}
+          <li class="lead">{{ site.title | escape }}</li>
+          {%- endif -%}
+          {%- if site.email -%}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+          {%- if site.website -%}
+          <li><a href="{{ site.website }}" target="_blank" rel="noopener">{{ site.website }}</a></li>
+          {%- endif -%}
+        </ul>
     </div>
 
+    <div class="col">
+      {%- include social.html -%}
+    </div>
+
+    <div class="col">
+      <p>{{- site.description | escape -}}</p>
+    </div>
   </div>
 
 </footer>

@@ -7,6 +7,11 @@ description: > # this means to ignore newlines until "twitter_username:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
+# optional mini-footer
+mini_footer_text:     Equilaterus (CC) 2019
+# Uncomment next line to display a smaller footer
+# mini_footer_enabled:  true
+
 # social links
 twitter_username: EquilaterusGS
 github_username:  equilaterus

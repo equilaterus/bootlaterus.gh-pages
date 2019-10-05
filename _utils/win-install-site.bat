@@ -1,3 +1,0 @@
-cd..
-bundle install
-pause

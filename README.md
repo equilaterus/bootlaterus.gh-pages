@@ -14,7 +14,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 * Create a [Github Page](https://pages.github.com/).
 
-* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.3/bootlaterus.gh-pages-0.1.3.zip) from this repo.
+* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.4/bootlaterus.gh-pages-0.1.4.zip) from this repo.
 
 * Uncompress files on your repo.
 
@@ -26,19 +26,21 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 ## Testing locally
 
-### Windows 
+### Option 1: Run util scripts
 
-* Install Ruby https://www.ruby-lang.org/en/downloads/
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
 
-* Run the **bat** files on the *_util* folder:
+* Run the **PowerShell** files on the *_util* folder:
 
-    * **win-install-bundler**: run once to install bundler.
+    * **install-bundler**: run once to install bundler.
 
-    * **win-install-site**: run once to install all requirements to run wikilaterus.
+    * **install-site**: run once to install all dependencies to run your site.
 
-    * **win-run-site**: run to start the server.
+    * **run-site**: run to start the server.
 
-### Any OS
+### Option 2: Commands
+
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
 
 * Run the following commands to install the site:
 

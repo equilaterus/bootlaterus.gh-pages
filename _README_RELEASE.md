@@ -21,19 +21,21 @@ Built with: https://github.com/equilaterus/bootlaterus.gh-pages
 
 ## Testing locally
 
-### Windows 
+### Option 1: Run util scripts
 
-* Install Ruby https://www.ruby-lang.org/en/downloads/
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
 
-* Run the **bat** files on the *_util* folder:
+* Run the **PowerShell** files on the *_util* folder:
 
-    * **win-install-bundler**: run once to install bundler.
+    * **install-bundler**: run once to install bundler.
 
-    * **win-install-site**: run once to install all requirements to run wikilaterus.
+    * **install-site**: run once to install all dependencies to run your site.
 
-    * **win-run-site**: run to start the server.
+    * **run-site**: run to start the server.
 
-### Any OS
+### Option 2: Commands
+
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
 
 * Run the following commands to install the site:
 

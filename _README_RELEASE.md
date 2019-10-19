@@ -23,7 +23,7 @@ Built with: https://github.com/equilaterus/bootlaterus.gh-pages
 
 ### Option 1: Run util scripts
 
-* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Programming-Ruby.html#install-ruby).
 
 * Run the **PowerShell** files on the *_util* folder:
 
@@ -35,7 +35,7 @@ Built with: https://github.com/equilaterus/bootlaterus.gh-pages
 
 ### Option 2: Commands
 
-* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Programming-Ruby.html#install-ruby).
 
 * Run the following commands to install the site:
 

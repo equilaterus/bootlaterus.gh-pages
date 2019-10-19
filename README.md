@@ -14,7 +14,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 * Create a [Github Page](https://pages.github.com/).
 
-* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.4/bootlaterus.gh-pages-0.1.4.zip) from this repo.
+* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.5/bootlaterus.gh-pages-0.1.5.zip) from this repo.
 
 * Uncompress files on your repo.
 
@@ -28,7 +28,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 ### Option 1: Run util scripts
 
-* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Github-Pages.html#install-ruby).
+* Install [Ruby](https://equilaterus.github.io/wikilaterus/wiki/Programming-Ruby.html#install-ruby).
 
 * Run the **PowerShell** files on the *_util* folder:
 

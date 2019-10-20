@@ -4,7 +4,10 @@
 
 Easily integrate Bootstrap to your GitHub Pages.
 
-Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
+Samples:
+
+* [Basic page](https://equilaterus.github.io/bootlaterus.gh-pages/)
+* [Equilaterus.com](https://equilaterus.github.io/)
 
 
 ## Instructions

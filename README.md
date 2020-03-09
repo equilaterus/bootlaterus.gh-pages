@@ -35,9 +35,7 @@ Samples:
 
 * Run the **PowerShell** files on the *_util* folder:
 
-    * **install-bundler**: run once to install bundler.
-
-    * **install-site**: run once to install all dependencies to run your site.
+    * **install-site**: run once to install bundler and all dependencies.
 
     * **run-site**: run to start the server.
 

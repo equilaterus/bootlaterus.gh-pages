@@ -1,10 +1,13 @@
 # Bootlaterus GitHub Pages
 
-[![Build Status](https://travis-ci.org/equilaterus/bootlaterus.gh-pages.svg?branch=master)](https://travis-ci.org/equilaterus/bootlaterus.gh-pages) [![GitHub release](https://img.shields.io/github/tag/equilaterus/bootlaterus.gh-pages.svg)](https://GitHub.com/equilaterus/bootlaterus.gh-pages/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.gh-pages.svg)](https://github.com/equilaterus/bootlaterus.gh-pages/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/equilaterus/bootlaterus.gh-pages.svg?branch=master)](https://travis-ci.org/equilaterus/bootlaterus.gh-pages) [![GitHub release](https://img.shields.io/github/v/release/equilaterus/bootlaterus.gh-pages?include_prereleases)](https://GitHub.com/equilaterus/bootlaterus.gh-pages/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.gh-pages.svg)](https://github.com/equilaterus/bootlaterus.gh-pages/blob/master/LICENSE)
 
 Easily integrate Bootstrap to your GitHub Pages.
 
-Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
+Samples:
+
+* [Basic page](https://equilaterus.github.io/bootlaterus.gh-pages/)
+* [Equilaterus.com](https://equilaterus.github.io/)
 
 
 ## Instructions
@@ -14,7 +17,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 * Create a [Github Page](https://pages.github.com/).
 
-* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v0.1.5/bootlaterus.gh-pages-0.1.5.zip) from this repo.
+* Download [Release Assets](https://github.com/equilaterus/bootlaterus.gh-pages/releases/download/v1.0.0/bootlaterus.gh-pages-1.0.0.zip) from this repo.
 
 * Uncompress files on your repo.
 
@@ -32,9 +35,7 @@ Sample GitHub Page: https://equilaterus.github.io/bootlaterus.gh-pages/
 
 * Run the **PowerShell** files on the *_util* folder:
 
-    * **install-bundler**: run once to install bundler.
-
-    * **install-site**: run once to install all dependencies to run your site.
+    * **install-site**: run once to install bundler and all dependencies.
 
     * **run-site**: run to start the server.
 
